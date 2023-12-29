@@ -1,0 +1,11 @@
+/Helper/bin
+/Helper/obj
+/Helper/Helper.csproj
+/Calculator/bin
+/Calculator/obj
+/Calculator/calculatorlog.json
+/Calculator/Calculator.csproj
+/CalculatorLibrary/bin
+/CalculatorLibrary/obj
+/CalculatorLibrary/CalculatorLibrary.csproj
+/Calculator_App.sln
